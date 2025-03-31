@@ -1,5 +1,6 @@
 # power-monitor
 Power Monitor code for the Winter Project 2025 for ES1050 @ UWO
+
 Coded by Ryan Jin for the ES1050 Winter Project "Power" for the scholastic term 2024-2025.
 Utilizing the GxEPD2 library Jean-Marc Zingg (the G.O.A.T.)
 This program is NOT a final product, nor is it to be assumed to be so.
